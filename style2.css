@@ -1,0 +1,31 @@
+#musica{
+    background-color: hsl(40, 77%, 83%);
+    width: 1400px;
+    height: 180px;
+    border: solid 3px #ffc458;
+    width: 1400px;
+    height:200px;
+}
+#musica, p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+       background:hsl(38, 96%, 79%);
+    }
+.albuns {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Foto{
+    width: 40%;
+}
+#Foto, p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Titulo, p{
+    text-align: center;
+}

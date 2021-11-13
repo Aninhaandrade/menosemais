@@ -1,0 +1,32 @@
+#unico{
+    background-color: rgb(192, 208, 231);      
+    width: 1400px;
+    height: 200px;
+    border: solid 3px hsl(220, 40%, 59%);
+    width: 1400px;
+    height:200px;
+}        
+#unico, p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background: #b4ace0;
+}
+.c1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }  
+.Titulo, p{
+    text-align: center;
+}
+#Foto{
+    width: 40%;
+}
+#Foto, p{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+        
